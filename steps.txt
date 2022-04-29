@@ -1,0 +1,7 @@
+To start this project you need to follow these steps:
+    1-  Creating a new Telegram bot and get the bot token
+    2-  Adding the bot token to credentials.json and store as telegram.bot
+    3-  Having the ID of the channel
+    4-  Add the channel ID to chats.json and store as a new string entry in the root list
+    5-  Run install.bat and wait for it to exit
+    6-  Run start.bat and wait for it to exit

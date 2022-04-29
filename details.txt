@@ -1,0 +1,43 @@
+-------------
+-- DETAILS --
+-------------
+
+Freelancing platform:   Mostaql
+                        https://mostaql.com
+
+Freelancer:             Omar M. Youssef
+                        https://mostaql.com/u/OmarMYousef
+
+Project:                بوت اشعارات في التلغرام لموقع
+                        https://mostaql.com/project/506248
+
+-------------------
+-- PROJECT STATE --
+-------------------
+
+This project is considered done and approved by the Project owner
+project state is: project is complete and npm dependencies are pre-installed
+
+-------------
+-- LICENCE --
+-------------
+
+This project is made as a freelancing project
+
+Project owner will have rights to:
+    Use this project for the purpose contracted in the project
+    
+Project owner will not have rights to:
+    Redistribute this specific project without permission from the freelancer
+
+Best regards, Omar M. Youssef
+
+-------------
+-- CONTACT --
+-------------
+
+This project is developed by: Omar M. Youssef
+
+Contacting details:
+    Mostaql:    https://mostaql.com/u/OmarMYousef
+    WhatsApp:   +201014904988
