@@ -3,4 +3,4 @@
 
 const APP = require("./src/app");
 const app = new APP();
-app.start()
+app.start();
